@@ -1,0 +1,24 @@
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+.vscode/
+
+# Python Tools for Visual Studio (PTVS)
+__pycache__
+*.pyc
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# the project
+compile.py
+glmake.py
+make.py
+glcompile.log
+bin/
+deps/
+logs/
