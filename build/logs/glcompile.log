@@ -1,0 +1,113 @@
+[10/25/2023 03:17:07 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build' folder already exists.
+[10/25/2023 03:17:07 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\bin' folder already exists.
+[10/25/2023 03:17:07 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\deps' folder already exists.
+[10/25/2023 03:17:07 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\logs' folder already exists.
+[10/25/2023 03:17:42 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build' folder already exists.
+[10/25/2023 03:17:42 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\bin' folder already exists.
+[10/25/2023 03:17:42 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\deps' folder already exists.
+[10/25/2023 03:17:42 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\logs' folder already exists.
+[10/25/2023 03:17:42 AM][glcompile][INFO]: g++.exe (Rev7, Built by MSYS2 project) 13.1.0
+Copyright (C) 2023 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+
+[10/25/2023 03:29:16 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build' folder already exists.
+[10/25/2023 03:29:16 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\bin' folder already exists.
+[10/25/2023 03:29:16 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\deps' folder already exists.
+[10/25/2023 03:29:16 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\logs' folder already exists.
+[10/25/2023 03:29:32 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build' folder already exists.
+[10/25/2023 03:29:32 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\bin' folder already exists.
+[10/25/2023 03:29:32 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\deps' folder already exists.
+[10/25/2023 03:29:32 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\logs' folder already exists.
+[10/25/2023 03:31:32 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build' folder already exists.
+[10/25/2023 03:31:32 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\bin' folder already exists.
+[10/25/2023 03:31:32 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\deps' folder already exists.
+[10/25/2023 03:31:32 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\logs' folder already exists.
+[10/25/2023 03:31:42 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build' folder already exists.
+[10/25/2023 03:31:42 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\bin' folder already exists.
+[10/25/2023 03:31:42 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\deps' folder already exists.
+[10/25/2023 03:31:42 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\logs' folder already exists.
+[10/25/2023 03:31:42 AM][glcompile][INFO]: 
+[10/25/2023 03:31:52 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build' folder already exists.
+[10/25/2023 03:31:52 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\bin' folder already exists.
+[10/25/2023 03:31:52 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\deps' folder already exists.
+[10/25/2023 03:31:52 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\logs' folder already exists.
+[10/25/2023 03:31:52 AM][glcompile][INFO]: 
+[10/25/2023 03:31:59 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build' folder already exists.
+[10/25/2023 03:31:59 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\bin' folder already exists.
+[10/25/2023 03:31:59 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\deps' folder already exists.
+[10/25/2023 03:31:59 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\logs' folder already exists.
+[10/25/2023 03:32:15 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build' folder already exists.
+[10/25/2023 03:32:15 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\bin' folder already exists.
+[10/25/2023 03:32:15 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\deps' folder already exists.
+[10/25/2023 03:32:15 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\logs' folder already exists.
+[10/25/2023 03:32:15 AM][glcompile][INFO]: ['C:\\msys64\\mingw64\\bin\\g++.exe', '--version']
+[10/25/2023 03:33:38 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build' folder already exists.
+[10/25/2023 03:33:38 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\bin' folder already exists.
+[10/25/2023 03:33:38 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\deps' folder already exists.
+[10/25/2023 03:33:38 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\logs' folder already exists.
+[10/25/2023 03:33:38 AM][glcompile][INFO]: ['C:\\msys64\\mingw64\\bin\\g++.exe', '--version']
+[10/25/2023 03:33:38 AM][glcompile][INFO]: 0
+[10/25/2023 03:33:38 AM][glcompile][INFO]: g++.exe (Rev7, Built by MSYS2 project) 13.1.0
+Copyright (C) 2023 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+
+[10/25/2023 03:33:38 AM][glcompile][INFO]: 
+[10/25/2023 03:37:36 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build' folder already exists.
+[10/25/2023 03:37:36 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\bin' folder already exists.
+[10/25/2023 03:37:36 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\deps' folder already exists.
+[10/25/2023 03:37:36 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\logs' folder already exists.
+[10/25/2023 03:37:36 AM][glcompile][INFO]: C:\msys64\mingw64\bin\g++.exeComando executado: --version
+[10/25/2023 03:37:36 AM][glcompile][INFO]: g++.exe (Rev7, Built by MSYS2 project) 13.1.0
+Copyright (C) 2023 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+
+[10/25/2023 03:37:45 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build' folder already exists.
+[10/25/2023 03:37:45 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\bin' folder already exists.
+[10/25/2023 03:37:45 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\deps' folder already exists.
+[10/25/2023 03:37:45 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\logs' folder already exists.
+[10/25/2023 03:37:45 AM][glcompile][INFO]: C:\msys64\mingw64\bin\g++.exeComando executado: {}--version
+[10/25/2023 03:37:45 AM][glcompile][INFO]: g++.exe (Rev7, Built by MSYS2 project) 13.1.0
+Copyright (C) 2023 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+
+[10/25/2023 03:38:28 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build' folder already exists.
+[10/25/2023 03:38:28 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\bin' folder already exists.
+[10/25/2023 03:38:28 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\deps' folder already exists.
+[10/25/2023 03:38:28 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\logs' folder already exists.
+[10/25/2023 03:38:28 AM][glcompile][INFO]: Comando executado: C:\msys64\mingw64\bin\g++.exe--version
+[10/25/2023 03:38:28 AM][glcompile][INFO]: g++.exe (Rev7, Built by MSYS2 project) 13.1.0
+Copyright (C) 2023 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+
+[10/25/2023 03:38:40 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build' folder already exists.
+[10/25/2023 03:38:40 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\bin' folder already exists.
+[10/25/2023 03:38:40 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\deps' folder already exists.
+[10/25/2023 03:38:40 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\logs' folder already exists.
+[10/25/2023 03:38:40 AM][glcompile][INFO]: Comando executado: C:\msys64\mingw64\bin\g++.exe --version
+[10/25/2023 03:38:40 AM][glcompile][INFO]: g++.exe (Rev7, Built by MSYS2 project) 13.1.0
+Copyright (C) 2023 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+
+[10/25/2023 03:39:23 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build' folder already exists.
+[10/25/2023 03:39:23 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\bin' folder already exists.
+[10/25/2023 03:39:23 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\deps' folder already exists.
+[10/25/2023 03:39:23 AM][glcompile][INFO]: The 'C:\Users\UFMA\Documents\docs\graphics\testes\build\logs' folder already exists.
+[10/25/2023 03:39:23 AM][glcompile][INFO]: Comando executado: C:\msys64\mingw64\bin\g++.exe --version
+[10/25/2023 03:39:23 AM][glcompile][INFO]: g++.exe (Rev7, Built by MSYS2 project) 13.1.0
+Copyright (C) 2023 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+
