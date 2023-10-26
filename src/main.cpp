@@ -51,15 +51,12 @@ void start() {
     static const GLfloat vertices[] = {
         -0.5f, 0.0f, 0.0f,  // position
         1.0f, 0.0f, 0.0f,   // color
-        // 0.0f, 0.0f,         // texture coordinate
 
         0.5f, 0.0f, 0.0f,   // position
         0.0f, 1.0f, 0.0f,   // color
-        // 1.0f, 0.0f,         // texture coordinate
 
         0.0f, 0.5f, 0.0f,   // position
         0.0f, 0.0f, 1.0f,   // color
-        // 1.0f, 1.0f,         // texture coordinate
         };
     
     static const GLuint indices[] = {
@@ -78,18 +75,10 @@ void start() {
     GLCall(glEnableVertexAttribArray(1));
     GLCall(glVertexAttribPointer(1, 3, GL_FLOAT, GL_FALSE, 6*sizeof(GLfloat), (GLvoid*)(3*sizeof(GLfloat))));
 
-    // especifica o atributo de coordenada da textura
-    // GLCall(glEnableVertexAttribArray(2));
-    // GLCall(glVertexAttribPointer(2, 2, GL_FLOAT, GL_FALSE, 8*sizeof(GLfloat), (GLvoid*)(6*sizeof(GLfloat))));
-
     // criar um buffer de índices
     GLCall(glGenBuffers(1, &ibo));
     GLCall(glBindBuffer(GL_ELEMENT_ARRAY_BUFFER, ibo));
     GLCall(glBufferData(GL_ELEMENT_ARRAY_BUFFER, sizeof(indices), indices, GL_STATIC_DRAW));
-
-    // GLCall(tex_location = glGetUniformLocation(shader_program, "tex"));
-    // GLCall(glActiveTexture(GL_TEXTURE0));
-    // GLCall(glBindTexture(GL_TEXTURE_2D, 2));
 
     // encerra as vinculações
     GLCall(glBindBuffer(GL_ELEMENT_ARRAY_BUFFER, 0));
@@ -102,20 +91,9 @@ void render() {
 
     GLCall(glUseProgram(shader_program));
 
-    // GLCall(GLuint vcolor = glGetUniformLocation(shader_program, "vcolor"));
-    // GLCall(glUniform3f(vcolor, dt, 0.3f, 0.8f));
-
-    // GLCall(glUniform1d(tex_location, 0));
-
-    // Renderizar apenas as arestas (wireframe)
-    // GLCall(glPolygonMode(GL_FRONT_AND_BACK, GL_LINE));
-
     GLCall(glBindVertexArray(vao));
     GLCall(glBindBuffer(GL_ELEMENT_ARRAY_BUFFER, ibo));
     GLCall(glDrawElements(GL_TRIANGLES, 3, GL_UNSIGNED_INT, nullptr));
-
-    // Renderizar apenas as arestas (wireframe)
-    // GLCall(glPolygonMode(GL_FRONT_AND_BACK, GL_FILL));
 
     glfwSwapBuffers(window);
 }
