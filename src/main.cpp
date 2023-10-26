@@ -49,13 +49,13 @@ void start() {
     GLCall(glBindVertexArray(vao));
 
     static const GLfloat vertices[] = {
-        -0.5f, 0.0f, 0.0f,  // position
+        0.5f, 0.5f, 0.0f,  // position
         1.0f, 0.0f, 0.0f,   // color
 
-        0.5f, 0.0f, 0.0f,   // position
+        0.5f, -0.5f, 0.0f,   // position
         0.0f, 1.0f, 0.0f,   // color
 
-        0.0f, 0.5f, 0.0f,   // position
+        -0.5f, 0.5f, 0.0f,   // position
         0.0f, 0.0f, 1.0f,   // color
         };
     
